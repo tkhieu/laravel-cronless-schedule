@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": "^7.4",
+        "php": "^7.3",
         "clue/stdio-react": "^2.3",
         "react/event-loop": "^1.1.1"
     },
